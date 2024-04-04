@@ -14,6 +14,5 @@ var expect = function(val) {
 
 const toBe = expect(5);
 console.log(toBe);
-const notToBe = expect(5);
-console.log(notToBe);
+
 
